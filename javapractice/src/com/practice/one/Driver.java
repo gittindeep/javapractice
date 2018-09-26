@@ -7,7 +7,7 @@ public class Driver {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Uploaded to Github");
-		System.out.println("This is Feat1 Branch: Uploaded to Github");
+		System.out.println("This is Master Branch: Uploaded to Github");
 
 	}
 
