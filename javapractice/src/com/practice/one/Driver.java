@@ -1,4 +1,4 @@
-//comment on the feat1 branch 
+//comment on the Master branch 
 package com.practice.one;
 
 public class Driver {
@@ -7,7 +7,7 @@ public class Driver {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Uploaded to Github");
-		System.out.println("This is Feat1: Uploaded to Github");
+		System.out.println("This is Master Branch: Uploaded to Github");
 
 	}
 
